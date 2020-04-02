@@ -1,0 +1,29 @@
+.first{
+    height: 500px;
+    width: 200px;
+    background-color: rgb(131, 131, 131);
+}
+.white{
+    background-color: white;
+    width: 700px;
+    vertical-align: top;
+}
+.last{
+    height: 30px;
+}
+.border{
+    border-collapse: collapse;
+}
+.first1{
+    background-color: rgb(165, 165, 165)
+}
+.bb{
+    height: 730px;
+}
+.head{
+    height: 150px;
+    background-image: repeating-linear-gradient(to right, white, rgb(7, 7, 160));
+    font-size: 2.5em;
+    font-style: italic;
+    font-family: fantasy;
+}

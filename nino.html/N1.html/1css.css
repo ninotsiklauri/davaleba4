@@ -1,0 +1,19 @@
+.red{
+    background-color: red;
+}
+.green{
+    background-color: rgb(39, 231, 39);
+}
+.white{
+    background-color: white;
+    vertical-align: top;
+}
+.blue{
+    background-color: blue;
+}
+.fourth{
+    height: 60px;
+}
+.border{
+    border-collapse: collapse;
+}
